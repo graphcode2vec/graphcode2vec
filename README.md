@@ -4,7 +4,7 @@
 ### Preprocessed Data of GraphCode2vec is available.
 
 - Extract Graph tool
-  - compile `mvn clena package`
+  - compile `mvn clean package`
   - run command see the example
 - Requriments
   - see  requirements.txt
