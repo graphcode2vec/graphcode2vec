@@ -1,6 +1,5 @@
 ### We are updating..
 ### News - We realse the tool based on Soot to extract the graphs from Java bytecode.
-### All datasets are comming (uploading to Zenodo )
 
 - Extract Graph tool
   - We implement the tool based on Soot. Soot Version is in `pom.xml`.
@@ -11,7 +10,7 @@
 - Requriments/Environment
   - recommend that you use `conda`
   - see  requirements.txt
-- Download Dataset from Zenodo
+- Download Dataset from [Zenodo](https://doi.org/10.5281/zenodo.6394383)
   - put all downloaded file to `source` folder
   - make sure you have enough disk space, around 100G, `bash untar.sh`
   
