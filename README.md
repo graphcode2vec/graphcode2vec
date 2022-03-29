@@ -3,9 +3,13 @@
 ### All datasets are comming (uploading to Zenodo )
 
 - Extract Graph tool
+  - We implement the tool based on Soot. Soot Version is in `pom.xml`.
+  - You can freely modify it.
+  - You cna use it to exctrat graph for your data.
   - compile `mvn clean package`
   - run command see the example, `extractGraphs.sh`
-- Requriments
+- Requriments/Environment
+  - recommend that you use `conda`
   - see  requirements.txt
 - Download Dataset from Zenodo
   - put all downloaded file to `source` folder
@@ -18,7 +22,7 @@
 - Run experiments
   1. `cd source/graphscripts_experiments/`
   2. run bash job files
-  3. reminding: it contains all trial experiment jobs. We will clean it later and keep only experiments in the paper.
+  3. reminding, it contains all trial experiment jobs. We will clean it later and keep only experiments in the paper.
 
 - paper link, [GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses](https://arxiv.org/abs/2112.01218)
 
