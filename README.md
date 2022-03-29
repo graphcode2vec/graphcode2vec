@@ -1,7 +1,6 @@
 ### We are updating..
 ### News - We realse the tool based on Soot to extract the graphs from Java bytecode.
 ### All datasets are comming (uploading to Zenodo )
-### Preprocessed Data of GraphCode2vec is available.
 
 - Extract Graph tool
   - compile `mvn clean package`
@@ -20,4 +19,6 @@
   1. `cd source/graphscripts_experiments/`
   2. run bash job files
   3. reminding: it contains all trial experiment jobs. We will clean it later and keep only experiments in the paper.
+
+- paper link, [GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses](https://arxiv.org/abs/2112.01218)
 
