@@ -3,6 +3,15 @@
 ### All datasets are comming (uploading to Zenodo )
 ### Preprocessed Data of GraphCode2vec is available.
 
+- Extract Graph tool
+  - compile `mvn clena package`
+  - run command see the example
+- Requriments
+  - see  requirements.txt
+- Download Dataset from Zenodo
+  - put all downloaded file to `source` folder
+  - `bash untar.sh`
+  
 - Pretrained Model
 1. https://drive.google.com/file/d/1PGF6e56CQ4XAfZMEU2Jl3w1TW4Q-59MG/view?usp=sharing
 
