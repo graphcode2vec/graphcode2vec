@@ -21,8 +21,7 @@
   3. reminding: it contains all trial experiment jobs. We will clean it later and keep only experiments in the paper.
 
 - paper link, [GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses](https://arxiv.org/abs/2112.01218)
-- cite ```@article{DBLP:journals/corr/abs-2112-01218,
-  author    = {Wei Ma and
+- citation ```@article{DBLP:journals/corr/abs-2112-01218, author    = {Wei Ma and
                Mengjie Zhao and
                Ezekiel Soremekun and
                Qiang Hu and
