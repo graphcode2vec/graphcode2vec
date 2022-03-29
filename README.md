@@ -5,7 +5,7 @@
 - Extract Graph tool
   - We implement the tool based on Soot. Soot Version is in `pom.xml`.
   - You can freely modify it.
-  - You cna use it to exctrat graph for your data.
+  - You can use it to exctrat graph for your data.
   - compile `mvn clean package`
   - run command see the example, `extractGraphs.sh`
 - Requriments/Environment
