@@ -19,4 +19,5 @@
 - Run experiments
   1. `cd source/graphscripts_experiments/`
   2. run bash job files
+  3. reminding: it contains all trial experiment jobs. We will clean it later and keep only experiments in the paper.
 
