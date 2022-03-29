@@ -5,7 +5,7 @@
 
 - Extract Graph tool
   - compile `mvn clean package`
-  - run command see the example
+  - run command see the example, `extractGraphs.sh`
 - Requriments
   - see  requirements.txt
 - Download Dataset from Zenodo
