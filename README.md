@@ -10,7 +10,7 @@
   - see  requirements.txt
 - Download Dataset from Zenodo
   - put all downloaded file to `source` folder
-  - `bash untar.sh`
+  - make sure you have enough disk space, around 100G, `bash untar.sh`
   
 - Pretrained Model
   1. https://drive.google.com/file/d/1PGF6e56CQ4XAfZMEU2Jl3w1TW4Q-59MG/view?usp=sharing
