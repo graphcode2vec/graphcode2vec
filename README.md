@@ -1,4 +1,4 @@
-### We confirm that we will make our source code publicly available upon acceptance.
+### We are updating..
 ### News - We realse the tool based on Soot to extract the graphs from Java bytecode.
 ### All datasets are comming (uploading to Zenodo )
 ### Preprocessed Data of GraphCode2vec is available.
