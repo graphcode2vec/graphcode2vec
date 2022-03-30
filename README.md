@@ -5,7 +5,7 @@
 #
 
 ### We are updating..
-#### News - We apply our approch on Flaky Test Prediction, which gets improvement 1% performance compared with Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests. Please see the repository, https://github.com/Marvinmw/Flaky . 
+#### News - We apply our approch on Flaky Test Prediction, which gets improvement 1% performance compared with Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests. Please see the repository, https://github.com/Marvinmw/Flaky . You also can find the details below.
 #### News - We realse the tool based on Soot to extract the graphs from Java bytecode.
 
 - Extract Graph tool
