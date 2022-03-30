@@ -5,7 +5,7 @@
 #
 
 ### We are updating..
-### News - We apply our approch on Flaky Test Prediction, which gets improvement 1% performance compared with Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests. Please see the repository, https://github.com/Marvinmw/Flaky .
+### News - We apply our approch on Flaky Test Prediction, which gets improvement 1% performance compared with Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests. Please see the repository, https://github.com/Marvinmw/Flaky . 
 ### News - We realse the tool based on Soot to extract the graphs from Java bytecode.
 
 - Extract Graph tool
@@ -30,11 +30,11 @@
   2. run bash job files
   3. reminding, it contains all trial experiment jobs. We will clean it later and keep only experiments in the paper.
 
-- We validate our approch to predict the falky tests, which gets improvement 1% performance compared with Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests. Please see the repository, https://github.com/Marvinmw/Flaky .
+- We apply our approch to predict the falky tests, which gets improvement 1% performance compared with Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests. Please see the repository, https://github.com/Marvinmw/Flaky .
   1. We compile all the code.
   2. We filter that test cases do not have .class files, which results in we lose some flaky tests.
   3. To compare, we rerun Flakify and make sure we use the same dataset.
-  4. The dataset will uploading soon.
+  4. You can find all info in https://github.com/Marvinmw/Flaky .
   
 - paper link, [GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses](https://arxiv.org/abs/2112.01218)
 - License, Boost Software License 1.0
