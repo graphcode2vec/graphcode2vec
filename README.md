@@ -1,7 +1,8 @@
+<p align="center">
+  <img src="GraphExtractor/graphcode2vec.svg"/>
+</p>
 
-                                          ![My animated logo](GraphExtractor/graphcode2vec.svg)
-
-
+#
 
 ### We are updating..
 ### News - We realse the tool based on Soot to extract the graphs from Java bytecode.
