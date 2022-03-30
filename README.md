@@ -32,7 +32,7 @@
 
 - We apply our approch to predict the falky tests, which gets improvement 1% performance compared with Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests. Please see the repository, https://github.com/Marvinmw/Flaky .
   1. We compile all the code.
-  2. We filter that test cases do not have .class files, which results in we lose some flaky tests.
+  2. We filter that test cases do not have .class files or failed to extract graphs, which results in we lose some flaky tests.
   3. To compare, we rerun Flakify and make sure we use the same dataset.
   4. You can find all info in https://github.com/Marvinmw/Flaky .
   
