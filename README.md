@@ -17,7 +17,7 @@
   - recommend that you use `conda`
   - see  requirements.txt
 - Download Dataset from [Zenodo](https://doi.org/10.5281/zenodo.6394383)
-  - put all downloaded file to `source` folder
+  - put all downloaded files to `source` folder
   - make sure you have enough disk space, around 100G, `bash untar.sh`
   
 - Pretrained Model
