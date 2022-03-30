@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GraphExtractor/graphcode2vec.svg"/>
+  <img src="GraphExtractor/graphcode2vec.svg" width="400"/>
 </p>
 
 #
