@@ -30,4 +30,5 @@
   3. reminding, it contains all trial experiment jobs. We will clean it later and keep only experiments in the paper.
 
 - paper link, [GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses](https://arxiv.org/abs/2112.01218)
+- License, Boost Software License 1.0
 
