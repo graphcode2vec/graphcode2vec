@@ -5,7 +5,7 @@
 #
 
 ### We are updating..
-#### News - We apply our approch on Flaky Test Prediction, which gets improvement 1% performance compared with Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests. You can find the details below.
+#### News - We apply our approch on Flaky Test Prediction, which gets improvement 1% performance compared with [Flakify: A Black-Box, Language Model-based Predictor for Flaky Tests](https://arxiv.org/abs/2112.12331#:~:text=23%20Dec%202021%5D-,Flakify%3A%20A%20Black%2DBox%2C%20Language%20Model%2D,based%20Predictor%20for%20Flaky%20Tests&text=Software%20testing%20assures%20that%20code,version%20of%20the%20source%20code.). You can find the details below.
 #### News - We realse the tool based on Soot to extract the graphs from Java bytecode.
 
 - Extract Graph tool
