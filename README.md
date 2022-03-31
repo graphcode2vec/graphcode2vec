@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="GraphExtractor/graphcode2vec.svg" width="400" height="300"/>
-</p>
-
+#<p align="center">
+#  <img src="GraphExtractor/graphcode2vec.svg" width="400" height="300"/>
+#</p>
 #
 
 ### We are updating..
