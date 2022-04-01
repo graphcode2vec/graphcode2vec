@@ -1,0 +1,1 @@
+{"0":{"Local":{"3":"Example r0"},"Unit":{"0":"r0 := @this: Example","1":"specialinvoke r0.<java.lang.Object: void <init>()>()","2":"return"}},"1":{"Local":{"6":"int i0","7":"int i1","8":"Example r0"},"Unit":{"0":"r0 := @this: Example","1":"i0 := @parameter0: int","2":"i1 := @parameter1: int","3":"if i0 <= i1 goto return i1","4":"return i0","5":"return i1"}}}

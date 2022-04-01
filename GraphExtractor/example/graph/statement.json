@@ -1,0 +1,1 @@
+{"0":["r0 := @this: Example","specialinvoke r0.<java.lang.Object: void <init>()>()","return","Example r0"],"1":["r0 := @this: Example","i0 := @parameter0: int","i1 := @parameter1: int","if i0 <= i1 goto return i1","return i0","return i1","int i0","int i1","Example r0"]}
