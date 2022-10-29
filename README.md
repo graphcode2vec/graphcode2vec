@@ -1,5 +1,25 @@
 This repo is for [GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses](https://arxiv.org/abs/2112.01218), Boost Software License 1.0
 
+```bibtex
+@inproceedings{10.1145/3524842.3528456,
+author = {Ma, Wei and Zhao, Mengjie and Soremekun, Ezekiel and Hu, Qiang and Zhang, Jie M. and Papadakis, Mike and Cordy, Maxime and Xie, Xiaofei and Traon, Yves Le},
+title = {GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses},
+year = {2022},
+isbn = {9781450393034},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3524842.3528456},
+doi = {10.1145/3524842.3528456},
+abstract = {Code embedding is a keystone in the application of machine learning on several Software Engineering (SE) tasks. To effectively support a plethora of SE tasks, the embedding needs to capture program syntax and semantics in a way that is generic. To this end, we propose the first self-supervised pre-training approach (called GraphCode2Vec) which produces task-agnostic embedding of lexical and program dependence features. GraphCode2Vec achieves this via a synergistic combination of code analysis and Graph Neural Networks. GraphCode2Vec is generic, it allows pre-training, and it is applicable to several SE downstream tasks. We evaluate the effectiveness of GraphCode2Vec on four (4) tasks (method name prediction, solution classification, mutation testing and overfitted patch classification), and compare it with four (4) similarly generic code embedding baselines (Code2Seq, Code2Vec, CodeBERT, Graph-CodeBERT) and seven (7) task-specific, learning-based methods. In particular, GraphCode2Vec is more effective than both generic and task-specific learning-based baselines. It is also complementary and comparable to GraphCodeBERT (a larger and more complex model). We also demonstrate through a probing and ablation study that GraphCode2Vec learns lexical and program dependence features and that self-supervised pre-training improves effectiveness.},
+booktitle = {Proceedings of the 19th International Conference on Mining Software Repositories},
+pages = {524–536},
+numpages = {13},
+keywords = {code embedding, code representation, code analysis},
+location = {Pittsburgh, Pennsylvania},
+series = {MSR '22}
+}
+```
+
 - Extract Graph tool
   - We implement the tool based on Soot. Soot Version is in `pom.xml`.
   - compile `mvn clean package`
